@@ -75,7 +75,7 @@ public class Server {
 	}
 
 	public String toString() {
-		return hostName + ": " + ipAddress;
+		return hostName + ": " + ipAddress + " with timeout of: " + timeout;
 
 	}
 }

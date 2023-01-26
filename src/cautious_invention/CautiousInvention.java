@@ -5,19 +5,29 @@ import java.time.format.DateTimeFormatter;
 
 import org.apache.log4j.BasicConfigurator;  
 import org.apache.log4j.LogManager;  
-import org.apache.log4j.Logger;  
+import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;  
 
 public class CautiousInvention {
 	final static Logger logger = LogManager.getLogger(CautiousInvention.class); 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		BasicConfigurator.configure();  
+		PropertyConfigurator.configure("log4j.info");
 		
 		Server serv1 = new Server("Google DNS","8.8.8.8");
 		Server serv2 = new Server("CLoudflair","1.0.0.1");
 		Server serv3 = new Server("Google DNS 2","8.8.4.4");
 		Server serv4 = new Server("router","192.168.50.1");
-			
+		
+		logger.info("--------------------------------------------");
+		logger.info("Starting logging at " + getTime());
+		logger.info(serv1.toString());
+		logger.info(serv2.toString());
+		logger.info(serv3.toString());
+		logger.info(serv4.toString());
+		logger.info("--------------------------------------------");
+		
 		while (true) {
 			
 			try {
@@ -33,7 +43,7 @@ public class CautiousInvention {
 				
 				serv4.ping();
 				
-				logger.info("----------------------");
+				logger.info("--------------------------------------------");
 			
 				Thread.sleep(5000 - millis % 1000);
 			} catch (InterruptedException e) {
