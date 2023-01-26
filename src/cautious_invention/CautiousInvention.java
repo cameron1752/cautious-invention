@@ -35,7 +35,7 @@ public class CautiousInvention {
 		while (true) {
 
 			System.out.println("CautiousInvention Downtime Monitor");
-			System.out.println("Start Time: " + startTime);
+			System.out.println("Start Time  : " + startTime);
 			System.out.println("Current Time: " + getTime());
 			System.out.println("Elapsed Time: " + currentTime(getTimeMS(), startTimeMS));
 			System.out.println("Pinging:");

@@ -15379,3 +15379,1450 @@ reachable in 35 ms
 Pinging this ipAddress: 192.168.50.1
 reachable in 1 ms
 --------------------------------------------
+--------------------------------------------
+Starting logging at 2023/01/26 16:43:10
+Google DNS: 8.8.8.8 with timeout of: 200
+CLoudflair: 1.0.0.1 with timeout of: 200
+Google DNS 2: 8.8.4.4 with timeout of: 200
+router: 192.168.50.1 with timeout of: 200
+--------------------------------------------
+2023/01/26 16:43:10
+Pinging this ipAddress: 8.8.8.8
+reachable in 37 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 29 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 30 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:43:11
+Pinging this ipAddress: 8.8.8.8
+reachable in 29 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 24 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 30 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:43:15
+Pinging this ipAddress: 8.8.8.8
+reachable in 28 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 22 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 34 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 0 ms
+--------------------------------------------
+2023/01/26 16:43:16
+Pinging this ipAddress: 8.8.8.8
+reachable in 39 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 26 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 32 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:43:20
+Pinging this ipAddress: 8.8.8.8
+reachable in 30 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 30 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 33 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:43:21
+Pinging this ipAddress: 8.8.8.8
+reachable in 30 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 24 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 36 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 2 ms
+--------------------------------------------
+2023/01/26 16:43:25
+Pinging this ipAddress: 8.8.8.8
+reachable in 32 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 39 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 34 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:43:26
+Pinging this ipAddress: 8.8.8.8
+reachable in 37 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 29 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 34 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 2 ms
+--------------------------------------------
+2023/01/26 16:43:30
+Pinging this ipAddress: 8.8.8.8
+reachable in 36 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 30 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 33 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:43:31
+Pinging this ipAddress: 8.8.8.8
+reachable in 35 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 27 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 27 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:43:35
+Pinging this ipAddress: 8.8.8.8
+reachable in 31 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 33 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 32 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:43:36
+Pinging this ipAddress: 8.8.8.8
+reachable in 36 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 30 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 28 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:43:40
+Pinging this ipAddress: 8.8.8.8
+reachable in 29 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 31 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 32 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 2 ms
+--------------------------------------------
+2023/01/26 16:43:41
+Pinging this ipAddress: 8.8.8.8
+reachable in 33 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 37 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 39 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:43:45
+Pinging this ipAddress: 8.8.8.8
+reachable in 30 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 29 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 29 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:43:46
+Pinging this ipAddress: 8.8.8.8
+reachable in 34 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 26 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 34 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:43:50
+Pinging this ipAddress: 8.8.8.8
+reachable in 33 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 29 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 33 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 0 ms
+--------------------------------------------
+2023/01/26 16:43:51
+Pinging this ipAddress: 8.8.8.8
+reachable in 31 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 23 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 32 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:43:55
+Pinging this ipAddress: 8.8.8.8
+reachable in 43 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 27 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 33 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 2 ms
+--------------------------------------------
+2023/01/26 16:43:56
+Pinging this ipAddress: 8.8.8.8
+reachable in 34 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 29 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 33 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:44:00
+Pinging this ipAddress: 8.8.8.8
+reachable in 30 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 26 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 70 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 0 ms
+--------------------------------------------
+2023/01/26 16:44:01
+Pinging this ipAddress: 8.8.8.8
+reachable in 35 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 26 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 29 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:44:05
+Pinging this ipAddress: 8.8.8.8
+reachable in 35 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 33 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 33 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:44:06
+Pinging this ipAddress: 8.8.8.8
+reachable in 28 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 25 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 34 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 2 ms
+--------------------------------------------
+2023/01/26 16:44:10
+Pinging this ipAddress: 8.8.8.8
+reachable in 33 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 36 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 35 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:44:11
+Pinging this ipAddress: 8.8.8.8
+reachable in 36 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 33 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 31 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:44:15
+Pinging this ipAddress: 8.8.8.8
+reachable in 35 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 31 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 35 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:44:16
+Pinging this ipAddress: 8.8.8.8
+reachable in 35 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 34 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 36 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:44:20
+Pinging this ipAddress: 8.8.8.8
+reachable in 33 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 27 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 42 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:44:21
+Pinging this ipAddress: 8.8.8.8
+reachable in 33 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 26 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 34 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:44:25
+Pinging this ipAddress: 8.8.8.8
+reachable in 32 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 25 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 37 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 2 ms
+--------------------------------------------
+2023/01/26 16:44:26
+Pinging this ipAddress: 8.8.8.8
+reachable in 35 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 27 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 34 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:44:30
+Pinging this ipAddress: 8.8.8.8
+reachable in 38 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 30 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 29 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:44:31
+Pinging this ipAddress: 8.8.8.8
+reachable in 29 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 28 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 37 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 2 ms
+--------------------------------------------
+2023/01/26 16:44:35
+Pinging this ipAddress: 8.8.8.8
+reachable in 40 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 33 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 35 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:44:36
+Pinging this ipAddress: 8.8.8.8
+reachable in 29 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 25 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 32 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:44:40
+Pinging this ipAddress: 8.8.8.8
+reachable in 31 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 32 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 34 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:44:41
+Pinging this ipAddress: 8.8.8.8
+reachable in 34 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 24 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 36 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:44:45
+Pinging this ipAddress: 8.8.8.8
+reachable in 33 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 31 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 32 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:44:46
+Pinging this ipAddress: 8.8.8.8
+reachable in 31 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 27 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 34 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:44:50
+Pinging this ipAddress: 8.8.8.8
+reachable in 33 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 27 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 33 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:44:51
+Pinging this ipAddress: 8.8.8.8
+reachable in 32 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 32 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 38 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:44:55
+Pinging this ipAddress: 8.8.8.8
+reachable in 31 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 30 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 35 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 0 ms
+--------------------------------------------
+2023/01/26 16:44:56
+Pinging this ipAddress: 8.8.8.8
+reachable in 38 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 28 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 31 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:45:00
+Pinging this ipAddress: 8.8.8.8
+reachable in 33 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 25 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 32 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 2 ms
+--------------------------------------------
+2023/01/26 16:45:01
+Pinging this ipAddress: 8.8.8.8
+reachable in 35 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 26 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 32 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 2 ms
+--------------------------------------------
+2023/01/26 16:45:05
+Pinging this ipAddress: 8.8.8.8
+reachable in 38 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 29 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 38 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:45:06
+Pinging this ipAddress: 8.8.8.8
+reachable in 36 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 31 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 37 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:45:10
+Pinging this ipAddress: 8.8.8.8
+reachable in 35 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 33 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 32 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:45:11
+Pinging this ipAddress: 8.8.8.8
+reachable in 35 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 30 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 35 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:45:15
+Pinging this ipAddress: 8.8.8.8
+reachable in 30 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 26 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 30 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:45:16
+Pinging this ipAddress: 8.8.8.8
+reachable in 35 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 29 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 35 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:45:20
+Pinging this ipAddress: 8.8.8.8
+reachable in 32 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 32 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 34 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 2 ms
+--------------------------------------------
+2023/01/26 16:45:21
+Pinging this ipAddress: 8.8.8.8
+reachable in 35 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 25 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 34 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:45:25
+Pinging this ipAddress: 8.8.8.8
+reachable in 34 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 26 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 33 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:45:26
+Pinging this ipAddress: 8.8.8.8
+reachable in 37 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 31 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 32 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:45:30
+Pinging this ipAddress: 8.8.8.8
+reachable in 26 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 26 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 30 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:45:31
+Pinging this ipAddress: 8.8.8.8
+reachable in 30 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 37 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 29 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:45:35
+Pinging this ipAddress: 8.8.8.8
+reachable in 33 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 32 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 37 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:45:36
+Pinging this ipAddress: 8.8.8.8
+reachable in 38 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 31 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 35 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:45:40
+Pinging this ipAddress: 8.8.8.8
+reachable in 36 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 30 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 34 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 2 ms
+--------------------------------------------
+2023/01/26 16:45:41
+Pinging this ipAddress: 8.8.8.8
+reachable in 33 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 30 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 33 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:45:45
+Pinging this ipAddress: 8.8.8.8
+reachable in 36 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 29 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 33 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:45:46
+Pinging this ipAddress: 8.8.8.8
+reachable in 37 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 29 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 35 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:45:50
+Pinging this ipAddress: 8.8.8.8
+reachable in 34 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 27 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 35 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 0 ms
+--------------------------------------------
+2023/01/26 16:45:51
+Pinging this ipAddress: 8.8.8.8
+reachable in 32 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 28 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 29 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:45:55
+Pinging this ipAddress: 8.8.8.8
+reachable in 32 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 29 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 32 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 0 ms
+--------------------------------------------
+2023/01/26 16:45:56
+Pinging this ipAddress: 8.8.8.8
+reachable in 37 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 32 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 43 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:46:00
+Pinging this ipAddress: 8.8.8.8
+reachable in 36 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 27 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 36 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:46:01
+Pinging this ipAddress: 8.8.8.8
+reachable in 32 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 27 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 31 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:46:05
+Pinging this ipAddress: 8.8.8.8
+reachable in 36 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 26 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 38 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 0 ms
+--------------------------------------------
+2023/01/26 16:46:06
+Pinging this ipAddress: 8.8.8.8
+reachable in 27 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 35 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 35 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:46:10
+Pinging this ipAddress: 8.8.8.8
+reachable in 36 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 28 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 33 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:46:11
+Pinging this ipAddress: 8.8.8.8
+reachable in 37 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 28 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 35 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 0 ms
+--------------------------------------------
+2023/01/26 16:46:15
+Pinging this ipAddress: 8.8.8.8
+reachable in 34 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 29 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 37 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:46:16
+Pinging this ipAddress: 8.8.8.8
+reachable in 34 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 25 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 36 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:46:20
+Pinging this ipAddress: 8.8.8.8
+reachable in 35 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 27 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 33 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:46:21
+Pinging this ipAddress: 8.8.8.8
+reachable in 37 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 29 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 36 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 2 ms
+--------------------------------------------
+2023/01/26 16:46:25
+Pinging this ipAddress: 8.8.8.8
+reachable in 35 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 22 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 34 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 2 ms
+--------------------------------------------
+2023/01/26 16:46:26
+Pinging this ipAddress: 8.8.8.8
+reachable in 34 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 21 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 30 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 0 ms
+--------------------------------------------
+2023/01/26 16:46:30
+Pinging this ipAddress: 8.8.8.8
+reachable in 30 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 33 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 34 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:46:31
+Pinging this ipAddress: 8.8.8.8
+reachable in 26 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 28 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 32 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:46:35
+Pinging this ipAddress: 8.8.8.8
+reachable in 33 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 30 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 36 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:46:36
+Pinging this ipAddress: 8.8.8.8
+reachable in 34 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 28 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 38 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:46:40
+Pinging this ipAddress: 8.8.8.8
+reachable in 37 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 28 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 32 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:46:41
+Pinging this ipAddress: 8.8.8.8
+reachable in 36 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 30 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 35 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:46:45
+Pinging this ipAddress: 8.8.8.8
+reachable in 32 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 30 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 36 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 0 ms
+--------------------------------------------
+2023/01/26 16:46:46
+Pinging this ipAddress: 8.8.8.8
+reachable in 31 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 26 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 29 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 0 ms
+--------------------------------------------
+2023/01/26 16:46:50
+Pinging this ipAddress: 8.8.8.8
+reachable in 33 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 22 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 29 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:46:51
+Pinging this ipAddress: 8.8.8.8
+reachable in 29 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 34 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 40 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:46:55
+Pinging this ipAddress: 8.8.8.8
+reachable in 33 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 32 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 30 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 2 ms
+--------------------------------------------
+2023/01/26 16:46:56
+Pinging this ipAddress: 8.8.8.8
+reachable in 33 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 30 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 31 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:47:00
+Pinging this ipAddress: 8.8.8.8
+reachable in 33 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 27 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 35 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:47:01
+Pinging this ipAddress: 8.8.8.8
+reachable in 33 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 27 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 31 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:47:05
+Pinging this ipAddress: 8.8.8.8
+reachable in 34 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 25 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 35 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:47:06
+Pinging this ipAddress: 8.8.8.8
+reachable in 29 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 32 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 35 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:47:10
+Pinging this ipAddress: 8.8.8.8
+reachable in 32 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 35 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 34 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 2 ms
+--------------------------------------------
+2023/01/26 16:47:11
+Pinging this ipAddress: 8.8.8.8
+reachable in 37 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 25 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 37 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:47:15
+Pinging this ipAddress: 8.8.8.8
+reachable in 33 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 33 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 34 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 2 ms
+--------------------------------------------
+2023/01/26 16:47:16
+Pinging this ipAddress: 8.8.8.8
+reachable in 36 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 33 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 31 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 2 ms
+--------------------------------------------
+2023/01/26 16:47:20
+Pinging this ipAddress: 8.8.8.8
+reachable in 37 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 33 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 32 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:47:21
+Pinging this ipAddress: 8.8.8.8
+reachable in 36 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 33 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 38 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 2 ms
+--------------------------------------------
+2023/01/26 16:47:25
+Pinging this ipAddress: 8.8.8.8
+reachable in 30 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 29 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 36 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:47:26
+Pinging this ipAddress: 8.8.8.8
+reachable in 31 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 28 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 30 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:47:30
+Pinging this ipAddress: 8.8.8.8
+reachable in 31 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 30 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 34 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:47:31
+Pinging this ipAddress: 8.8.8.8
+reachable in 28 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 32 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 38 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:47:35
+Pinging this ipAddress: 8.8.8.8
+reachable in 32 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 37 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 37 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 0 ms
+--------------------------------------------
+2023/01/26 16:47:36
+Pinging this ipAddress: 8.8.8.8
+reachable in 34 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 39 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 47 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:47:40
+Pinging this ipAddress: 8.8.8.8
+reachable in 31 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 29 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 36 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 2 ms
+--------------------------------------------
+2023/01/26 16:47:41
+Pinging this ipAddress: 8.8.8.8
+reachable in 32 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 27 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 30 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 2 ms
+--------------------------------------------
+2023/01/26 16:47:45
+Pinging this ipAddress: 8.8.8.8
+reachable in 37 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 31 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 48 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 2 ms
+--------------------------------------------
+2023/01/26 16:47:46
+Pinging this ipAddress: 8.8.8.8
+reachable in 75 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 67 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 79 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:47:50
+Pinging this ipAddress: 8.8.8.8
+reachable in 31 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 27 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 36 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:47:51
+Pinging this ipAddress: 8.8.8.8
+reachable in 31 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 25 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 31 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:47:55
+Pinging this ipAddress: 8.8.8.8
+reachable in 31 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 28 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 33 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 2 ms
+--------------------------------------------
+2023/01/26 16:47:56
+Pinging this ipAddress: 8.8.8.8
+reachable in 32 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 32 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 30 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:48:00
+Pinging this ipAddress: 8.8.8.8
+reachable in 34 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 32 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 34 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:48:01
+Pinging this ipAddress: 8.8.8.8
+reachable in 34 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 27 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 32 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:48:05
+Pinging this ipAddress: 8.8.8.8
+reachable in 30 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 25 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 28 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 2 ms
+--------------------------------------------
+2023/01/26 16:48:06
+Pinging this ipAddress: 8.8.8.8
+reachable in 36 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 28 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 34 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:48:10
+Pinging this ipAddress: 8.8.8.8
+reachable in 39 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 27 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 35 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:48:11
+Pinging this ipAddress: 8.8.8.8
+reachable in 36 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 21 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 27 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:48:15
+Pinging this ipAddress: 8.8.8.8
+reachable in 33 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 21 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 35 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:48:16
+Pinging this ipAddress: 8.8.8.8
+reachable in 32 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 30 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 33 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 2 ms
+--------------------------------------------
+2023/01/26 16:48:20
+Pinging this ipAddress: 8.8.8.8
+reachable in 33 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 32 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 30 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:48:21
+Pinging this ipAddress: 8.8.8.8
+reachable in 32 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 21 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 37 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:48:25
+Pinging this ipAddress: 8.8.8.8
+reachable in 33 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 32 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 37 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:48:26
+Pinging this ipAddress: 8.8.8.8
+reachable in 34 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 28 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 35 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:48:30
+Pinging this ipAddress: 8.8.8.8
+reachable in 35 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 26 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 34 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 2 ms
+--------------------------------------------
+2023/01/26 16:48:31
+Pinging this ipAddress: 8.8.8.8
+reachable in 33 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 28 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 53 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 2 ms
+--------------------------------------------
+2023/01/26 16:48:35
+Pinging this ipAddress: 8.8.8.8
+reachable in 32 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 31 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 36 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:48:36
+Pinging this ipAddress: 8.8.8.8
+reachable in 31 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 36 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 36 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:48:40
+Pinging this ipAddress: 8.8.8.8
+reachable in 35 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 27 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 37 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:48:41
+Pinging this ipAddress: 8.8.8.8
+reachable in 38 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 27 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 33 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 3 ms
+--------------------------------------------
+2023/01/26 16:48:45
+Pinging this ipAddress: 8.8.8.8
+reachable in 46 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 60 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 76 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:48:46
+Pinging this ipAddress: 8.8.8.8
+reachable in 83 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 74 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 89 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:48:50
+Pinging this ipAddress: 8.8.8.8
+reachable in 40 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 32 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 32 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:48:51
+Pinging this ipAddress: 8.8.8.8
+reachable in 36 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 33 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 37 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:48:55
+Pinging this ipAddress: 8.8.8.8
+reachable in 38 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 29 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 35 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 2 ms
+--------------------------------------------
+2023/01/26 16:48:56
+Pinging this ipAddress: 8.8.8.8
+reachable in 36 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 31 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 37 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:49:00
+Pinging this ipAddress: 8.8.8.8
+reachable in 40 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 31 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 35 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:49:01
+Pinging this ipAddress: 8.8.8.8
+reachable in 37 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 30 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 33 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:49:05
+Pinging this ipAddress: 8.8.8.8
+reachable in 37 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 29 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 32 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+2023/01/26 16:49:06
+Pinging this ipAddress: 8.8.8.8
+reachable in 28 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 34 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 35 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
