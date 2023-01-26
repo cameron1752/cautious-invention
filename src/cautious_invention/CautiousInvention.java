@@ -3,10 +3,15 @@ package cautious_invention;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
-public class CautiousInvention {
+import org.apache.log4j.BasicConfigurator;  
+import org.apache.log4j.LogManager;  
+import org.apache.log4j.Logger;  
 
+public class CautiousInvention {
+	final static Logger logger = LogManager.getLogger(CautiousInvention.class); 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		BasicConfigurator.configure();  
 		
 		Server serv1 = new Server("Google DNS","8.8.8.8");
 		Server serv2 = new Server("CLoudflair","1.0.0.1");
@@ -18,7 +23,7 @@ public class CautiousInvention {
 			try {
 				long millis = System.currentTimeMillis();
 				
-				System.out.println(getTime());
+				logger.info(getTime());
 				
 				serv1.ping();
 		
@@ -28,7 +33,7 @@ public class CautiousInvention {
 				
 				serv4.ping();
 				
-				System.out.println("----------------------");
+				logger.info("----------------------");
 			
 				Thread.sleep(5000 - millis % 1000);
 			} catch (InterruptedException e) {
