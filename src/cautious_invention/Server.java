@@ -36,6 +36,11 @@ public class Server {
 			if (address.isReachable(timeout)) {
 				finish = System.currentTimeMillis();
 				timeElapsed = finish - start;
+				
+				if (timeElapsed > timeout) {
+					statusLogger.info("[" + getTime() + "]" + toString() + " not reachable in " + timeElapsed + " ms");
+				}
+				
 				logger.info("reachable in " + timeElapsed + " ms");
 				System.out.println(hostName + ": " + timeElapsed + " ms");
 			} else {
