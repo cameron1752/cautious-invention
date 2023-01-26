@@ -3,12 +3,15 @@ package cautious_invention;
 import java.io.IOException;
 import java.net.InetAddress;
 import java.net.UnknownHostException;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
 
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 
 public class Server {
 	final Logger logger = LogManager.getLogger(Server.class);
+	final static Logger statusLogger = LogManager.getLogger("OTHER_LOGGER");
 	private String ipAddress;
 	private String hostName;
 	private InetAddress address;
@@ -34,10 +37,12 @@ public class Server {
 				finish = System.currentTimeMillis();
 				timeElapsed = finish - start;
 				logger.info("reachable in " + timeElapsed + " ms");
+				System.out.println(hostName + ": " + timeElapsed + " ms");
 			} else {
 				finish = System.currentTimeMillis();
 				timeElapsed = finish - start;
 				logger.info("not reachable in " + timeElapsed + " ms");
+				statusLogger.info("[" + getTime() + "]" + toString() + " not reachable in " + timeElapsed + " ms");
 			}
 
 		} catch (UnknownHostException e) {
@@ -77,5 +82,10 @@ public class Server {
 	public String toString() {
 		return hostName + ": " + ipAddress + " with timeout of: " + timeout;
 
+	}
+	
+	public static String getTime() {
+	   DateTimeFormatter dtf = DateTimeFormatter.ofPattern("yyyy/MM/dd HH:mm:ss");  
+	   return dtf.format(LocalDateTime.now());
 	}
 }
