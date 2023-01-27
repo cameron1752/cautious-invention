@@ -19,9 +19,12 @@ public class CautiousInvention {
 	final static Logger statusLogger = LogManager.getLogger("OTHER_LOGGER");
 	final static String startTime = getTime();
 	final static long startTimeMS = System.currentTimeMillis();
+	
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		String downTime = "";
+		
 		BasicConfigurator.configure();
 		PropertyConfigurator.configure("log4j.info");
 		
@@ -55,6 +58,8 @@ public class CautiousInvention {
 				window.updateCurrentTime(getTime());
 				System.out.println("Elapsed Time: " + currentTime(getTimeMS(), startTimeMS));
 				window.updateElapsedTime(currentTime(getTimeMS(), startTimeMS));
+				
+				window.updateDownTime(downTime);
 				System.out.println("Pinging:");
 				System.out.println("	" + serv1.toString());
 				System.out.println("	" + serv2.toString());
@@ -68,10 +73,14 @@ public class CautiousInvention {
 					logger.info(getTime());
 					
 					window.updateTextField(1, serv1.ping());
+					downTime = serv1.getLastOutage();
 					window.updateTextField(2, serv2.ping());
+					downTime = serv2.getLastOutage();
 					window.updateTextField(3, serv3.ping());
+					downTime = serv3.getLastOutage();
 					window.updateTextField(4 ,serv4.ping());
-	
+					downTime = serv4.getLastOutage();
+					
 					logger.info("--------------------------------------------");
 	
 					Thread.sleep(5000 - millis % 1000);

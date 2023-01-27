@@ -45,6 +45,8 @@ public class gui_builder {
 	private JTextField textField_12;
 	private JTextField textField_13;
 	private JTextField textField_14;
+	private JTextField textField_15;
+	private JLabel lblNewLabel_12;
 
 	/**
 	 * Launch the application.
@@ -266,6 +268,18 @@ public class gui_builder {
 		textField_14.setColumns(10);
 		textField_14.setBounds(20, 284, 133, 25);
 		frame.getContentPane().add(textField_14);
+		
+		textField_15 = new JTextField();
+		textField_15.setHorizontalAlignment(SwingConstants.CENTER);
+		textField_15.setEditable(false);
+		textField_15.setColumns(10);
+		textField_15.setBounds(23, 430, 120, 20);
+		frame.getContentPane().add(textField_15);
+		
+		lblNewLabel_12 = new JLabel("Last Downtime");
+		lblNewLabel_12.setHorizontalAlignment(SwingConstants.CENTER);
+		lblNewLabel_12.setBounds(23, 405, 115, 14);
+		frame.getContentPane().add(lblNewLabel_12);
 	}
 	
 	public void setInfo(Server serv1, Server serv2, Server serv3, Server serv4) {
@@ -302,6 +316,10 @@ public class gui_builder {
 	
 	public void updateElapsedTime(String elapsedTime) {
 		textField_11.setText(elapsedTime);
+	}
+	
+	public void updateDownTime(String time) {
+		textField_15.setText(time);
 	}
 	
 	public boolean isRunning() {

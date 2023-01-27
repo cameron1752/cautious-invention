@@ -19,6 +19,7 @@ public class Server {
 	private long finish;
 	private long timeElapsed;
 	private int timeout = 5000;
+	private String lastOutage;
 
 	public Server(String hostName, String ipAddress) {
 		this.ipAddress = ipAddress;
@@ -48,6 +49,7 @@ public class Server {
 				timeElapsed = finish - start;
 				logger.info("not reachable in " + timeElapsed + " ms");
 				statusLogger.info("[" + getTime() + "]" + toString() + " not reachable in " + timeElapsed + " ms");
+				setLastOutage(getTime());
 			}
 
 		} catch (UnknownHostException e) {
@@ -83,6 +85,14 @@ public class Server {
 
 	public void setTimeout(int timeout) {
 		this.timeout = timeout;
+	}
+
+	public String getLastOutage() {
+		return lastOutage;
+	}
+
+	public void setLastOutage(String lastOutage) {
+		this.lastOutage = lastOutage;
 	}
 
 	public String toString() {
