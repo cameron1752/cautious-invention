@@ -34,7 +34,7 @@ public class CautiousInvention {
 		Server serv4 = new Server("router", "192.168.50.1");
 		
 		gui_builder window = new gui_builder();
-		window.setInfo(serv1, serv2, serv3);
+		window.setInfo(serv1, serv2, serv3, serv4);
 		window.frame.setVisible(true);
 		
 		logger.info("--------------------------------------------");
@@ -70,7 +70,7 @@ public class CautiousInvention {
 					window.updateTextField(1, serv1.ping());
 					window.updateTextField(2, serv2.ping());
 					window.updateTextField(3, serv3.ping());
-					serv4.ping();
+					window.updateTextField(4 ,serv4.ping());
 	
 					logger.info("--------------------------------------------");
 	

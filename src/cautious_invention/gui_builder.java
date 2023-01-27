@@ -39,6 +39,12 @@ public class gui_builder {
 	private JTextField textField_10;
 	private JLabel lblNewLabel_9;
 	private JTextField textField_11;
+	private JLabel lblNewLabel_1_4;
+	private JLabel lblNewLabel_10;
+	private JLabel lblNewLabel_11;
+	private JTextField textField_12;
+	private JTextField textField_13;
+	private JTextField textField_14;
 
 	/**
 	 * Launch the application.
@@ -84,6 +90,7 @@ public class gui_builder {
 		frame.getContentPane().add(lblNewLabel);
 		
 		textField = new JTextField();
+		textField.setEditable(false);
 		textField.setBounds(23, 69, 133, 25);
 		frame.getContentPane().add(textField);
 		textField.setColumns(10);
@@ -93,6 +100,7 @@ public class gui_builder {
 		frame.getContentPane().add(lblNewLabel_1);
 		
 		textField_1 = new JTextField();
+		textField_1.setEditable(false);
 		textField_1.setColumns(10);
 		textField_1.setBounds(182, 69, 133, 25);
 		frame.getContentPane().add(textField_1);
@@ -102,21 +110,25 @@ public class gui_builder {
 		frame.getContentPane().add(lblNewLabel_1_1);
 		
 		textField_2 = new JTextField();
+		textField_2.setEditable(false);
 		textField_2.setColumns(10);
 		textField_2.setBounds(23, 144, 133, 25);
 		frame.getContentPane().add(textField_2);
 		
 		textField_3 = new JTextField();
+		textField_3.setEditable(false);
 		textField_3.setColumns(10);
 		textField_3.setBounds(182, 144, 133, 25);
 		frame.getContentPane().add(textField_3);
 		
 		textField_4 = new JTextField();
+		textField_4.setEditable(false);
 		textField_4.setColumns(10);
 		textField_4.setBounds(23, 214, 133, 25);
 		frame.getContentPane().add(textField_4);
 		
 		textField_5 = new JTextField();
+		textField_5.setEditable(false);
 		textField_5.setColumns(10);
 		textField_5.setBounds(182, 214, 133, 25);
 		frame.getContentPane().add(textField_5);
@@ -138,16 +150,19 @@ public class gui_builder {
 		frame.getContentPane().add(lblNewLabel_1_3);
 		
 		textField_6 = new JTextField();
+		textField_6.setEditable(false);
 		textField_6.setBounds(342, 71, 86, 20);
 		frame.getContentPane().add(textField_6);
 		textField_6.setColumns(10);
 		
 		textField_7 = new JTextField();
+		textField_7.setEditable(false);
 		textField_7.setColumns(10);
 		textField_7.setBounds(342, 146, 86, 20);
 		frame.getContentPane().add(textField_7);
 		
 		textField_8 = new JTextField();
+		textField_8.setEditable(false);
 		textField_8.setColumns(10);
 		textField_8.setBounds(342, 216, 86, 20);
 		frame.getContentPane().add(textField_8);
@@ -173,7 +188,7 @@ public class gui_builder {
 				
 			}
 		});
-		btnNewButton.setBounds(148, 346, 147, 23);
+		btnNewButton.setBounds(150, 405, 147, 23);
 		frame.getContentPane().add(btnNewButton);
 		
 		btnNewButton_1 = new JButton("Stop Monitoring");
@@ -183,51 +198,86 @@ public class gui_builder {
 				setRunning(false);
 			}
 		});
-		btnNewButton_1.setBounds(148, 380, 147, 23);
+		btnNewButton_1.setBounds(150, 439, 147, 23);
 		frame.getContentPane().add(btnNewButton_1);
 		
 		lblNewLabel_7 = new JLabel("Time Started");
 		lblNewLabel_7.setHorizontalAlignment(SwingConstants.CENTER);
-		lblNewLabel_7.setBounds(55, 276, 84, 14);
+		lblNewLabel_7.setBounds(23, 349, 115, 14);
 		frame.getContentPane().add(lblNewLabel_7);
 		
 		textField_9 = new JTextField();
+		textField_9.setEditable(false);
 		textField_9.setHorizontalAlignment(SwingConstants.CENTER);
-		textField_9.setBounds(38, 301, 120, 20);
+		textField_9.setBounds(23, 374, 120, 20);
 		frame.getContentPane().add(textField_9);
 		textField_9.setColumns(10);
 		
 		lblNewLabel_8 = new JLabel("Current Time");
 		lblNewLabel_8.setHorizontalAlignment(SwingConstants.CENTER);
-		lblNewLabel_8.setBounds(189, 276, 86, 14);
+		lblNewLabel_8.setBounds(175, 349, 122, 14);
 		frame.getContentPane().add(lblNewLabel_8);
 		
 		textField_10 = new JTextField();
+		textField_10.setEditable(false);
 		textField_10.setHorizontalAlignment(SwingConstants.CENTER);
 		textField_10.setColumns(10);
-		textField_10.setBounds(174, 301, 121, 20);
+		textField_10.setBounds(175, 374, 120, 20);
 		frame.getContentPane().add(textField_10);
 		
 		lblNewLabel_9 = new JLabel("Elapsed Time");
 		lblNewLabel_9.setHorizontalAlignment(SwingConstants.CENTER);
-		lblNewLabel_9.setBounds(326, 276, 86, 14);
+		lblNewLabel_9.setBounds(321, 349, 123, 14);
 		frame.getContentPane().add(lblNewLabel_9);
 		
 		textField_11 = new JTextField();
+		textField_11.setEditable(false);
 		textField_11.setHorizontalAlignment(SwingConstants.CENTER);
 		textField_11.setColumns(10);
-		textField_11.setBounds(320, 301, 105, 20);
+		textField_11.setBounds(320, 374, 124, 20);
 		frame.getContentPane().add(textField_11);
+		
+		lblNewLabel_1_4 = new JLabel("IP Address");
+		lblNewLabel_1_4.setBounds(179, 263, 78, 14);
+		frame.getContentPane().add(lblNewLabel_1_4);
+		
+		lblNewLabel_10 = new JLabel("Host");
+		lblNewLabel_10.setBounds(20, 263, 46, 14);
+		frame.getContentPane().add(lblNewLabel_10);
+		
+		lblNewLabel_11 = new JLabel("Response Time");
+		lblNewLabel_11.setBounds(339, 263, 105, 14);
+		frame.getContentPane().add(lblNewLabel_11);
+		
+		textField_12 = new JTextField();
+		textField_12.setEditable(false);
+		textField_12.setColumns(10);
+		textField_12.setBounds(339, 286, 86, 20);
+		frame.getContentPane().add(textField_12);
+		
+		textField_13 = new JTextField();
+		textField_13.setEditable(false);
+		textField_13.setColumns(10);
+		textField_13.setBounds(179, 284, 133, 25);
+		frame.getContentPane().add(textField_13);
+		
+		textField_14 = new JTextField();
+		textField_14.setEditable(false);
+		textField_14.setColumns(10);
+		textField_14.setBounds(20, 284, 133, 25);
+		frame.getContentPane().add(textField_14);
 	}
 	
-	public void setInfo(Server serv1, Server serv2, Server serv3) {
+	public void setInfo(Server serv1, Server serv2, Server serv3, Server serv4) {
 		textField.setText(serv1.getHostName());
 		textField_2.setText(serv2.getHostName());
 		textField_4.setText(serv3.getHostName());
+		textField_14.setText(serv4.getHostName());
 		
 		textField_1.setText(serv1.getIpAddress());
 		textField_3.setText(serv2.getIpAddress());
 		textField_5.setText(serv3.getIpAddress());
+		textField_13.setText(serv4.getIpAddress());
 	}
 	
 	public void updateTextField(Integer index, String text) {
@@ -237,6 +287,8 @@ public class gui_builder {
 			textField_7.setText(text);
 		} else if (index == 3) {
 			textField_8.setText(text);
+		} else if (index == 4) {
+			textField_12.setText(text);
 		}
 	}
 	
