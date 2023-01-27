@@ -18,7 +18,7 @@ public class Server {
 	private long start;
 	private long finish;
 	private long timeElapsed;
-	private int timeout = 200;
+	private int timeout = 5000;
 
 	public Server(String hostName, String ipAddress) {
 		this.ipAddress = ipAddress;
