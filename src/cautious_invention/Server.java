@@ -25,7 +25,7 @@ public class Server {
 		this.hostName = hostName;
 	}
 
-	public void ping() {
+	public String ping() {
 		try {
 			address = InetAddress.getByName(ipAddress);
 
@@ -58,6 +58,7 @@ public class Server {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+		return timeElapsed + " ms";
 	}
 
 	public String getIpAddress() {

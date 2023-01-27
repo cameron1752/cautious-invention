@@ -1,7 +1,13 @@
 package cautious_invention;
 
+import java.awt.FlowLayout;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
+
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JPanel;
 
 import org.apache.log4j.BasicConfigurator;
 import org.apache.log4j.LogManager;
@@ -18,12 +24,19 @@ public class CautiousInvention {
 		// TODO Auto-generated method stub
 		BasicConfigurator.configure();
 		PropertyConfigurator.configure("log4j.info");
+		
+		//GUIBuilder.guiBuilder();
 
+		
 		Server serv1 = new Server("Google DNS", "8.8.8.8");
 		Server serv2 = new Server("CLoudflair", "1.0.0.1");
 		Server serv3 = new Server("Google DNS 2", "8.8.4.4");
 		Server serv4 = new Server("router", "192.168.50.1");
-
+		
+		gui_builder window = new gui_builder();
+		window.setInfo(serv1, serv2, serv3);
+		window.frame.setVisible(true);
+		
 		logger.info("--------------------------------------------");
 		logger.info("Starting logging at " + startTime);
 		logger.info(serv1.toString());
@@ -33,41 +46,45 @@ public class CautiousInvention {
 		logger.info("--------------------------------------------");
 
 		while (true) {
-
-			System.out.println("CautiousInvention Downtime Monitor");
-			System.out.println("Start Time  : " + startTime);
-			System.out.println("Current Time: " + getTime());
-			System.out.println("Elapsed Time: " + currentTime(getTimeMS(), startTimeMS));
-			System.out.println("Pinging:");
-			System.out.println("	" + serv1.toString());
-			System.out.println("	" + serv2.toString());
-			System.out.println("	" + serv3.toString());
-			System.out.println("	" + serv4.toString());
-			System.out.println("Current Response Time: ");
-
-			try {
-				long millis = System.currentTimeMillis();
-
-				logger.info(getTime());
-
-				serv1.ping();
-
-				serv2.ping();
-
-				serv3.ping();
-
-				serv4.ping();
-
-				logger.info("--------------------------------------------");
-
-				Thread.sleep(5000 - millis % 1000);
-			} catch (InterruptedException e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
+			System.out.println(window.isRunning());
+			if (window.isRunning()) {
+				System.out.println("CautiousInvention Downtime Monitor");
+				System.out.println("Start Time  : " + startTime);
+				window.updateStartTime(startTime);
+				System.out.println("Current Time: " + getTime());
+				window.updateCurrentTime(getTime());
+				System.out.println("Elapsed Time: " + currentTime(getTimeMS(), startTimeMS));
+				window.updateElapsedTime(currentTime(getTimeMS(), startTimeMS));
+				System.out.println("Pinging:");
+				System.out.println("	" + serv1.toString());
+				System.out.println("	" + serv2.toString());
+				System.out.println("	" + serv3.toString());
+				System.out.println("	" + serv4.toString());
+				System.out.println("Current Response Time: ");
+	
+				try {
+					long millis = System.currentTimeMillis();
+	
+					logger.info(getTime());
+					
+					window.updateTextField(1, serv1.ping());
+					window.updateTextField(2, serv2.ping());
+					window.updateTextField(3, serv3.ping());
+					serv4.ping();
+	
+					logger.info("--------------------------------------------");
+	
+					Thread.sleep(5000 - millis % 1000);
+				} catch (InterruptedException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
 			}
 		}
 	}
+	
 
+	
 	public static String getTime() {
 		DateTimeFormatter dtf = DateTimeFormatter.ofPattern("yyyy/MM/dd HH:mm:ss");
 		return dtf.format(LocalDateTime.now());
