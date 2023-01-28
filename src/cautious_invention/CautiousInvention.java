@@ -74,12 +74,16 @@ public class CautiousInvention {
 					
 					window.updateTextField(1, serv1.ping());
 					downTime = serv1.getLastOutage();
+					window.updateDownTime(downTime);
 					window.updateTextField(2, serv2.ping());
 					downTime = serv2.getLastOutage();
+					window.updateDownTime(downTime);
 					window.updateTextField(3, serv3.ping());
 					downTime = serv3.getLastOutage();
+					window.updateDownTime(downTime);
 					window.updateTextField(4 ,serv4.ping());
 					downTime = serv4.getLastOutage();
+					window.updateDownTime(downTime);
 					
 					logger.info("--------------------------------------------");
 	
