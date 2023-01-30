@@ -298,3 +298,405 @@
 [2023/01/28 05:00:21]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4995 ms
 [2023/01/28 05:00:31]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4624 ms
 [2023/01/28 06:56:38]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4666 ms
+[2023/01/28 07:43:46]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4719 ms
+[2023/01/28 07:43:56]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4525 ms
+[2023/01/28 07:44:01]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4992 ms
+[2023/01/28 07:44:06]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 5011 ms
+[2023/01/28 07:44:15]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4714 ms
+[2023/01/28 07:44:24]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4539 ms
+[2023/01/28 07:44:29]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4967 ms
+[2023/01/28 07:44:38]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4767 ms
+[2023/01/28 07:44:43]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5008 ms
+[2023/01/28 07:44:48]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 5006 ms
+[2023/01/28 07:44:57]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4530 ms
+[2023/01/28 07:45:02]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4992 ms
+[2023/01/28 07:45:07]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 5012 ms
+[2023/01/28 07:45:16]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4777 ms
+[2023/01/28 07:45:25]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4960 ms
+[2023/01/28 07:45:30]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4967 ms
+[2023/01/28 07:45:39]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4824 ms
+[2023/01/28 07:45:44]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 5010 ms
+[2023/01/28 07:45:53]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4903 ms
+[2023/01/28 07:45:58]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4996 ms
+[2023/01/28 07:46:07]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4874 ms
+[2023/01/28 07:46:12]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4999 ms
+[2023/01/28 07:46:21]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4847 ms
+[2023/01/28 07:46:30]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4859 ms
+[2023/01/28 08:00:03]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4721 ms
+[2023/01/28 08:00:08]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5000 ms
+[2023/01/28 08:00:13]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4996 ms
+[2023/01/28 08:39:44]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 165 ms
+[2023/01/28 08:39:49]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4996 ms
+[2023/01/28 09:02:48]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4683 ms
+[2023/01/28 09:02:58]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4556 ms
+[2023/01/28 09:03:03]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4968 ms
+[2023/01/28 09:03:12]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4726 ms
+[2023/01/28 09:03:21]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4982 ms
+[2023/01/28 09:03:30]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4767 ms
+[2023/01/28 09:03:35]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4985 ms
+[2023/01/28 09:03:45]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4535 ms
+[2023/01/28 09:03:54]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4724 ms
+[2023/01/28 09:03:59]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4967 ms
+[2023/01/28 09:04:08]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4565 ms
+[2023/01/28 09:04:17]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4681 ms
+[2023/01/28 09:04:26]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4560 ms
+[2023/01/28 09:04:31]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4963 ms
+[2023/01/28 09:04:49]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4717 ms
+[2023/01/28 09:04:59]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4522 ms
+[2023/01/28 09:05:04]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5005 ms
+[2023/01/28 09:05:13]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4758 ms
+[2023/01/28 09:05:18]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4992 ms
+[2023/01/28 09:05:27]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4519 ms
+[2023/01/28 09:05:32]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5003 ms
+[2023/01/28 09:05:41]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4687 ms
+[2023/01/28 09:05:50]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4563 ms
+[2023/01/28 09:05:55]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4991 ms
+[2023/01/28 09:06:04]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4727 ms
+[2023/01/28 09:06:09]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5000 ms
+[2023/01/28 09:10:24]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 11678 ms
+[2023/01/28 09:10:29]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4520 ms
+[2023/01/28 09:41:05]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 211 ms
+[2023/01/28 22:18:29]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4808 ms
+[2023/01/28 22:18:34]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5006 ms
+[2023/01/28 22:18:39]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4999 ms
+[2023/01/28 22:18:49]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 5003 ms
+[2023/01/28 22:18:54]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4958 ms
+[2023/01/28 22:19:03]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4816 ms
+[2023/01/28 22:19:08]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4999 ms
+[2023/01/28 22:19:13]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 5004 ms
+[2023/01/28 22:19:22]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4995 ms
+[2023/01/28 22:19:27]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4971 ms
+[2023/01/28 23:11:48]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4712 ms
+[2023/01/28 23:11:53]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4970 ms
+[2023/01/28 23:12:03]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4532 ms
+[2023/01/28 23:12:12]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4701 ms
+[2023/01/28 23:12:17]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5013 ms
+[2023/01/28 23:12:26]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4555 ms
+[2023/01/28 23:12:31]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4995 ms
+[2023/01/28 23:12:36]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 5011 ms
+[2023/01/28 23:12:45]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4743 ms
+[2023/01/28 23:12:50]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5000 ms
+[2023/01/28 23:12:55]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 5002 ms
+[2023/01/28 23:13:04]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4557 ms
+[2023/01/28 23:13:09]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5008 ms
+[2023/01/28 23:13:18]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4706 ms
+[2023/01/28 23:13:23]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4980 ms
+[2023/01/28 23:13:32]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4558 ms
+[2023/01/28 23:13:37]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4995 ms
+[2023/01/28 23:13:46]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4687 ms
+[2023/01/28 23:13:51]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4990 ms
+[2023/01/28 23:14:00]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4564 ms
+[2023/01/28 23:14:05]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 5000 ms
+[2023/01/28 23:14:14]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4710 ms
+[2023/01/28 23:14:19]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5002 ms
+[2023/01/28 23:14:24]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 5001 ms
+[2023/01/28 23:14:33]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4589 ms
+[2023/01/28 23:22:23]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 204 ms
+[2023/01/28 23:22:28]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5000 ms
+[2023/01/29 00:23:45]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 219 ms
+[2023/01/29 00:33:19]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4670 ms
+[2023/01/29 00:33:29]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4577 ms
+[2023/01/29 00:33:34]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4974 ms
+[2023/01/29 00:33:43]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4729 ms
+[2023/01/29 00:33:48]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4996 ms
+[2023/01/29 00:33:53]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 5012 ms
+[2023/01/29 00:34:02]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4571 ms
+[2023/01/29 00:34:07]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4972 ms
+[2023/01/29 00:34:16]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4734 ms
+[2023/01/29 00:34:25]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4971 ms
+[2023/01/29 00:34:30]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 5009 ms
+[2023/01/29 00:34:39]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4763 ms
+[2023/01/29 00:34:49]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4966 ms
+[2023/01/29 00:34:54]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5010 ms
+[2023/01/29 00:35:03]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4763 ms
+[2023/01/29 00:35:08]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 5001 ms
+[2023/01/29 00:35:18]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4519 ms
+[2023/01/29 00:35:23]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5000 ms
+[2023/01/29 00:35:32]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4730 ms
+[2023/01/29 10:28:54]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4666 ms
+[2023/01/29 10:44:48]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4717 ms
+[2023/01/29 10:44:53]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5003 ms
+[2023/01/29 10:45:03]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4561 ms
+[2023/01/29 10:45:08]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4987 ms
+[2023/01/29 10:45:13]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 5003 ms
+[2023/01/29 10:45:22]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4754 ms
+[2023/01/29 10:45:27]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5009 ms
+[2023/01/29 11:55:25]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4600 ms
+[2023/01/29 12:11:19]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4688 ms
+[2023/01/29 12:11:24]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4986 ms
+[2023/01/29 12:11:34]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4579 ms
+[2023/01/29 12:11:39]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4996 ms
+[2023/01/29 12:11:48]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4706 ms
+[2023/01/29 12:11:53]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4964 ms
+[2023/01/29 12:12:02]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4612 ms
+[2023/01/29 12:12:07]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5002 ms
+[2023/01/29 12:12:12]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4987 ms
+[2023/01/29 12:12:21]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4706 ms
+[2023/01/29 12:12:26]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5000 ms
+[2023/01/29 12:12:49]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4715 ms
+[2023/01/29 12:12:54]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4977 ms
+[2023/01/29 12:13:13]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4659 ms
+[2023/01/29 12:13:23]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4587 ms
+[2023/01/29 12:13:32]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4663 ms
+[2023/01/29 12:13:37]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5003 ms
+[2023/01/29 12:13:46]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4569 ms
+[2023/01/29 12:13:55]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4672 ms
+[2023/01/29 12:14:04]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 5002 ms
+[2023/01/29 12:14:18]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4710 ms
+[2023/01/29 12:14:23]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5004 ms
+[2023/01/29 12:14:33]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4570 ms
+[2023/01/29 12:14:38]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4970 ms
+[2023/01/29 12:14:47]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4736 ms
+[2023/01/29 12:14:56]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 5004 ms
+[2023/01/29 12:15:01]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4963 ms
+[2023/01/29 12:15:10]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4815 ms
+[2023/01/29 12:15:19]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4926 ms
+[2023/01/29 12:15:24]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4964 ms
+[2023/01/29 12:15:33]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4847 ms
+[2023/01/29 12:52:11]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4669 ms
+[2023/01/29 14:29:33]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 177 ms
+[2023/01/29 14:35:57]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4691 ms
+[2023/01/29 14:36:07]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4556 ms
+[2023/01/29 14:36:12]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5001 ms
+[2023/01/29 14:36:17]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4999 ms
+[2023/01/29 14:36:26]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4749 ms
+[2023/01/29 14:36:31]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4997 ms
+[2023/01/29 14:36:36]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 5010 ms
+[2023/01/29 14:36:45]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4558 ms
+[2023/01/29 14:36:50]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4996 ms
+[2023/01/29 14:36:55]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 5003 ms
+[2023/01/29 14:37:04]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4741 ms
+[2023/01/29 14:37:09]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5003 ms
+[2023/01/29 14:37:14]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4999 ms
+[2023/01/29 14:37:23]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4556 ms
+[2023/01/29 14:37:28]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4997 ms
+[2023/01/29 14:37:33]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4995 ms
+[2023/01/29 14:37:42]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4768 ms
+[2023/01/29 14:37:47]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4994 ms
+[2023/01/29 14:37:52]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4998 ms
+[2023/01/29 14:38:01]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4555 ms
+[2023/01/29 14:38:06]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4996 ms
+[2023/01/29 14:38:11]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4999 ms
+[2023/01/29 14:38:20]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4755 ms
+[2023/01/29 14:38:25]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5011 ms
+[2023/01/29 14:38:30]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4999 ms
+[2023/01/29 14:38:39]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4548 ms
+[2023/01/29 14:38:44]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5002 ms
+[2023/01/29 14:38:49]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4994 ms
+[2023/01/29 14:38:58]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4767 ms
+[2023/01/29 14:39:03]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4999 ms
+[2023/01/29 14:39:08]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4992 ms
+[2023/01/29 14:39:17]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4558 ms
+[2023/01/29 15:52:14]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 13747 ms
+[2023/01/29 15:52:19]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4966 ms
+[2023/01/29 16:21:13]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4663 ms
+[2023/01/29 16:21:23]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4582 ms
+[2023/01/29 16:21:32]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4665 ms
+[2023/01/29 16:21:37]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4998 ms
+[2023/01/29 16:22:54]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 184 ms
+[2023/01/29 16:28:53]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4719 ms
+[2023/01/29 16:28:58]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4999 ms
+[2023/01/29 16:29:03]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4994 ms
+[2023/01/29 16:29:13]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4585 ms
+[2023/01/29 16:29:18]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4936 ms
+[2023/01/29 16:29:27]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4726 ms
+[2023/01/29 16:29:32]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4998 ms
+[2023/01/29 16:29:37]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 5002 ms
+[2023/01/29 16:29:46]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4587 ms
+[2023/01/29 16:29:51]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4990 ms
+[2023/01/29 16:29:56]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 5002 ms
+[2023/01/29 16:30:05]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4728 ms
+[2023/01/29 16:30:10]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5000 ms
+[2023/01/29 16:30:15]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4999 ms
+[2023/01/29 16:30:24]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4577 ms
+[2023/01/29 16:30:29]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5006 ms
+[2023/01/29 16:30:34]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 5000 ms
+[2023/01/29 16:30:43]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4724 ms
+[2023/01/29 16:30:48]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4927 ms
+[2023/01/29 16:30:57]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4589 ms
+[2023/01/29 16:31:06]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4995 ms
+[2023/01/29 16:38:40]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4702 ms
+[2023/01/29 16:38:50]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4549 ms
+[2023/01/29 16:38:55]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5003 ms
+[2023/01/29 16:39:08]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4706 ms
+[2023/01/29 16:39:32]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4728 ms
+[2023/01/29 16:39:51]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4648 ms
+[2023/01/29 16:40:01]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4594 ms
+[2023/01/29 16:40:06]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4972 ms
+[2023/01/29 16:40:15]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4716 ms
+[2023/01/29 16:40:24]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4536 ms
+[2023/01/29 16:40:29]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4998 ms
+[2023/01/29 16:40:38]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4751 ms
+[2023/01/29 16:40:43]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5001 ms
+[2023/01/29 16:41:06]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4715 ms
+[2023/01/29 16:41:16]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4533 ms
+[2023/01/29 16:41:21]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4996 ms
+[2023/01/29 16:41:26]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4999 ms
+[2023/01/29 16:41:35]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4778 ms
+[2023/01/29 16:41:40]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5010 ms
+[2023/01/29 16:41:49]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4922 ms
+[2023/01/29 16:41:58]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4829 ms
+[2023/01/29 16:42:07]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4871 ms
+[2023/01/29 16:42:16]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4824 ms
+[2023/01/29 16:42:25]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4914 ms
+[2023/01/29 16:42:30]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5011 ms
+[2023/01/29 16:53:35]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 168 ms
+[2023/01/29 17:24:17]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 180 ms
+[2023/01/29 17:54:58]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 181 ms
+[2023/01/29 18:25:41]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 179 ms
+[2023/01/29 18:25:46]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4998 ms
+[2023/01/29 18:54:50]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4684 ms
+[2023/01/29 18:56:22]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 186 ms
+[2023/01/29 19:28:34]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 192 ms
+[2023/01/29 20:29:58]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 185 ms
+[2023/01/29 20:30:03]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4997 ms
+[2023/01/29 20:42:57]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4705 ms
+[2023/01/29 20:43:02]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5002 ms
+[2023/01/29 20:43:12]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4572 ms
+[2023/01/29 20:43:17]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4996 ms
+[2023/01/29 20:43:22]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 5005 ms
+[2023/01/29 20:43:31]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4700 ms
+[2023/01/29 20:43:36]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 5004 ms
+[2023/01/29 20:43:45]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4536 ms
+[2023/01/29 20:43:50]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 5001 ms
+[2023/01/29 20:43:59]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4720 ms
+[2023/01/29 20:44:04]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4997 ms
+[2023/01/29 20:44:09]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 5009 ms
+[2023/01/29 20:44:18]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4514 ms
+[2023/01/29 20:44:27]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4726 ms
+[2023/01/29 20:44:36]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4528 ms
+[2023/01/29 20:44:41]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4971 ms
+[2023/01/29 20:44:50]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4714 ms
+[2023/01/29 20:44:59]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5004 ms
+[2023/01/29 20:45:08]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4726 ms
+[2023/01/29 20:45:13]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5005 ms
+[2023/01/29 20:45:18]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 5002 ms
+[2023/01/29 20:45:28]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4534 ms
+[2023/01/29 20:45:33]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4997 ms
+[2023/01/29 20:53:06]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4652 ms
+[2023/01/29 20:53:16]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4593 ms
+[2023/01/29 20:53:21]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4963 ms
+[2023/01/29 20:53:30]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4720 ms
+[2023/01/29 20:53:35]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4997 ms
+[2023/01/29 20:53:44]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4503 ms
+[2023/01/29 20:53:53]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4697 ms
+[2023/01/29 20:53:58]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4992 ms
+[2023/01/29 20:54:07]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4585 ms
+[2023/01/29 20:54:12]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5000 ms
+[2023/01/29 20:54:17]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4997 ms
+[2023/01/29 20:54:26]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4689 ms
+[2023/01/29 20:54:35]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4541 ms
+[2023/01/29 20:54:40]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4969 ms
+[2023/01/29 20:54:49]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4744 ms
+[2023/01/29 20:54:58]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4961 ms
+[2023/01/29 20:55:07]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4779 ms
+[2023/01/29 20:55:12]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4975 ms
+[2023/01/29 20:55:22]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4526 ms
+[2023/01/29 20:55:27]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4993 ms
+[2023/01/29 20:55:32]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 5011 ms
+[2023/01/29 21:25:38]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 12744 ms
+[2023/01/29 21:25:43]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4972 ms
+[2023/01/29 21:56:21]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 180 ms
+[2023/01/29 22:16:05]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4721 ms
+[2023/01/29 22:16:29]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4713 ms
+[2023/01/29 22:16:34]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4997 ms
+[2023/01/29 22:16:44]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4522 ms
+[2023/01/29 22:16:53]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4704 ms
+[2023/01/29 22:16:58]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5000 ms
+[2023/01/29 22:17:03]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 5003 ms
+[2023/01/29 22:17:12]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4600 ms
+[2023/01/29 22:17:17]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5002 ms
+[2023/01/29 22:17:26]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4652 ms
+[2023/01/29 22:17:31]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 5000 ms
+[2023/01/29 22:27:07]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4813 ms
+[2023/01/29 23:17:45]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4517 ms
+[2023/01/29 23:17:50]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4998 ms
+[2023/01/29 23:17:55]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4997 ms
+[2023/01/29 23:18:05]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4598 ms
+[2023/01/29 23:18:10]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4997 ms
+[2023/01/29 23:18:15]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4997 ms
+[2023/01/29 23:18:24]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4987 ms
+[2023/01/29 23:18:29]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4997 ms
+[2023/01/29 23:18:38]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4605 ms
+[2023/01/29 23:18:43]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4969 ms
+[2023/01/29 23:18:53]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4516 ms
+[2023/01/29 23:18:58]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4997 ms
+[2023/01/29 23:19:07]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4524 ms
+[2023/01/29 23:19:16]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4985 ms
+[2023/01/29 23:19:21]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4997 ms
+[2023/01/29 23:19:30]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4583 ms
+[2023/01/29 23:19:35]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5013 ms
+[2023/01/29 23:19:45]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4986 ms
+[2023/01/29 23:19:50]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4997 ms
+[2023/01/29 23:19:59]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4593 ms
+[2023/01/29 23:20:04]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4998 ms
+[2023/01/29 23:20:14]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4991 ms
+[2023/01/29 23:20:19]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4997 ms
+[2023/01/29 23:20:24]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4997 ms
+[2023/01/29 23:29:55]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 12622 ms
+[2023/01/29 23:30:00]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4905 ms
+[2023/01/30 00:00:37]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 473 ms
+[2023/01/30 00:27:47]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4981 ms
+[2023/01/30 00:27:56]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4565 ms
+[2023/01/30 00:28:01]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4997 ms
+[2023/01/30 00:28:06]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4997 ms
+[2023/01/30 00:28:16]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4553 ms
+[2023/01/30 00:28:21]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4966 ms
+[2023/01/30 00:28:30]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4555 ms
+[2023/01/30 00:28:35]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5014 ms
+[2023/01/30 00:28:44]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4963 ms
+[2023/01/30 00:28:53]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4547 ms
+[2023/01/30 00:28:58]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4997 ms
+[2023/01/30 00:29:08]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4536 ms
+[2023/01/30 00:29:13]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4967 ms
+[2023/01/30 00:29:22]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4576 ms
+[2023/01/30 00:29:27]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4969 ms
+[2023/01/30 00:29:36]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4544 ms
+[2023/01/30 00:29:41]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4997 ms
+[2023/01/30 00:29:46]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4997 ms
+[2023/01/30 00:31:18]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 13578 ms
+[2023/01/30 00:31:23]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4946 ms
+[2023/01/30 01:02:01]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 493 ms
+[2023/01/30 01:02:06]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4997 ms
+[2023/01/30 02:03:24]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 477 ms
+[2023/01/30 02:34:06]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 582 ms
+[2023/01/30 08:04:11]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4975 ms
+[2023/01/30 08:04:16]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 5002 ms
+[2023/01/30 08:04:25]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4589 ms
+[2023/01/30 08:04:30]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4976 ms
+[2023/01/30 08:20:39]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4516 ms
+[2023/01/30 08:20:44]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4998 ms
+[2023/01/30 08:20:49]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 5004 ms
+[2023/01/30 08:20:59]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4592 ms
+[2023/01/30 08:21:04]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4996 ms
+[2023/01/30 08:21:09]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 5012 ms
+[2023/01/30 08:21:18]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4956 ms
+[2023/01/30 08:29:27]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4528 ms
+[2023/01/30 08:29:32]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4993 ms
+[2023/01/30 08:29:37]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4997 ms
+[2023/01/30 08:29:47]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4590 ms
+[2023/01/30 08:29:52]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4995 ms
+[2023/01/30 08:29:57]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4997 ms
+[2023/01/30 08:30:06]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4527 ms
+[2023/01/30 08:30:11]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 4995 ms
+[2023/01/30 08:30:16]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 5012 ms
+[2023/01/30 08:30:25]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4571 ms
+[2023/01/30 08:30:30]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5005 ms
+[2023/01/30 08:30:35]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4996 ms
+[2023/01/30 08:30:44]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4533 ms
+[2023/01/30 08:30:49]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5001 ms
+[2023/01/30 08:30:54]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4999 ms
+[2023/01/30 08:31:03]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4569 ms
+[2023/01/30 08:31:08]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5003 ms
+[2023/01/30 08:31:17]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4998 ms
+[2023/01/30 08:31:22]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5004 ms
+[2023/01/30 08:31:27]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 5004 ms
+[2023/01/30 08:31:36]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4599 ms
+[2023/01/30 08:31:41]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5001 ms
+[2023/01/30 08:31:46]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4999 ms
+[2023/01/30 08:31:56]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4509 ms
+[2023/01/30 08:32:01]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5000 ms
+[2023/01/30 08:32:06]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 4998 ms
+[2023/01/30 08:32:15]Google DNS: 8.8.8.8 with timeout of: 5000 not reachable in 4600 ms
+[2023/01/30 08:32:20]CLoudflair: 1.0.0.1 with timeout of: 5000 not reachable in 5000 ms
+[2023/01/30 08:32:25]Google DNS 2: 8.8.4.4 with timeout of: 5000 not reachable in 5011 ms
