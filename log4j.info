@@ -5,7 +5,7 @@ log4j.rootLogger = INFO, FILE
 log4j.appender.FILE=org.apache.log4j.RollingFileAppender
 
 # Set the name of the file
-log4j.appender.FILE.File=log.txt
+log4j.appender.FILE.File=.\log.txt
 
 log4j.logger.OTHER_LOGGER=DEBUG, OtherAppender
 
@@ -30,7 +30,7 @@ log4j.appender.FILE.layout.conversionPattern=%m%n
 
 #File Appender
 log4j.appender.OtherAppender=org.apache.log4j.FileAppender
-log4j.appender.OtherAppender.File=status.txt
+log4j.appender.OtherAppender.File=.\status.txt
 log4j.appender.OtherAppender.layout=org.apache.log4j.PatternLayout
 log4j.appender.OtherAppender.Append=true
 log4j.appender.OtherAppender.layout.ConversionPattern= %m%n

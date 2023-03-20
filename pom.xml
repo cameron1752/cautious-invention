@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>cautious_invention</groupId>
 	<artifactId>cautious_invention</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<build>
 		<sourceDirectory>src</sourceDirectory>
 		<plugins>
@@ -13,6 +13,42 @@
 					<release>16</release>
 				</configuration>
 			</plugin>
+			
+        <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-jar-plugin</artifactId>
+            <version>3.3.0</version>
+            <configuration>
+                <archive>
+                    <manifest>
+                        <mainClass>cautious_invention.cautious_invention_cli</mainClass>
+                    </manifest>
+                </archive>
+            </configuration>
+        </plugin>
+    <plugin>
+<artifactId>maven-assembly-plugin</artifactId>
+    <configuration>
+        <archive>
+            <manifest>
+                <mainClass>cautious_invention.cautious_invention_cli</mainClass>
+            </manifest> 
+        </archive> 
+        <descriptorRefs>
+            <descriptorRef>jar-with-dependencies</descriptorRef>
+        </descriptorRefs>
+    </configuration>
+    <executions>
+        <execution>
+            <id>make-assembly</id>
+            <phase>package</phase>
+            <goals>
+                <goal>single</goal>
+            </goals>
+        </execution>
+    </executions>
+</plugin>
+
 		</plugins>
 
 

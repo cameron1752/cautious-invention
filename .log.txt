@@ -1,0 +1,347 @@
+--------------------------------------------
+Starting logging at 2023/03/20 13:24:53
+Google DNS: 8.8.8.8 with timeout of: 5000
+CLoudflair: 1.0.0.1 with timeout of: 5000
+Google DNS 2: 8.8.4.4 with timeout of: 5000
+router: 192.168.50.1 with timeout of: 5000
+--------------------------------------------
+CautiousInvention Downtime Monitor
+Start Time  : 2023/03/20 13:24:53
+Current Time: 2023/03/20 13:24:53
+Elapsed Time: 0:00:00
+Pinging:
+	Google DNS: 8.8.8.8 with timeout of: 5000
+	CLoudflair: 1.0.0.1 with timeout of: 5000
+	Google DNS 2: 8.8.4.4 with timeout of: 5000
+	router: 192.168.50.1 with timeout of: 5000
+Current Response Time: 
+2023/03/20 13:24:53
+Pinging this ipAddress: 8.8.8.8
+reachable in 41 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 35 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 47 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+CautiousInvention Downtime Monitor
+Start Time  : 2023/03/20 13:24:53
+Current Time: 2023/03/20 13:24:58
+Elapsed Time: 0:00:04
+Pinging:
+	Google DNS: 8.8.8.8 with timeout of: 5000
+	CLoudflair: 1.0.0.1 with timeout of: 5000
+	Google DNS 2: 8.8.4.4 with timeout of: 5000
+	router: 192.168.50.1 with timeout of: 5000
+Current Response Time: 
+2023/03/20 13:24:58
+Pinging this ipAddress: 8.8.8.8
+reachable in 46 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 35 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 36 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+CautiousInvention Downtime Monitor
+Start Time  : 2023/03/20 13:24:53
+Current Time: 2023/03/20 13:25:03
+Elapsed Time: 0:00:09
+Pinging:
+	Google DNS: 8.8.8.8 with timeout of: 5000
+	CLoudflair: 1.0.0.1 with timeout of: 5000
+	Google DNS 2: 8.8.4.4 with timeout of: 5000
+	router: 192.168.50.1 with timeout of: 5000
+Current Response Time: 
+2023/03/20 13:25:03
+Pinging this ipAddress: 8.8.8.8
+reachable in 38 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 36 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 40 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+CautiousInvention Downtime Monitor
+Start Time  : 2023/03/20 13:24:53
+Current Time: 2023/03/20 13:25:08
+Elapsed Time: 0:00:14
+Pinging:
+	Google DNS: 8.8.8.8 with timeout of: 5000
+	CLoudflair: 1.0.0.1 with timeout of: 5000
+	Google DNS 2: 8.8.4.4 with timeout of: 5000
+	router: 192.168.50.1 with timeout of: 5000
+Current Response Time: 
+2023/03/20 13:25:08
+Pinging this ipAddress: 8.8.8.8
+reachable in 34 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 22 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 44 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+CautiousInvention Downtime Monitor
+Start Time  : 2023/03/20 13:24:53
+Current Time: 2023/03/20 13:25:13
+Elapsed Time: 0:00:19
+Pinging:
+	Google DNS: 8.8.8.8 with timeout of: 5000
+	CLoudflair: 1.0.0.1 with timeout of: 5000
+	Google DNS 2: 8.8.4.4 with timeout of: 5000
+	router: 192.168.50.1 with timeout of: 5000
+Current Response Time: 
+2023/03/20 13:25:13
+Pinging this ipAddress: 8.8.8.8
+reachable in 41 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 35 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 45 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+CautiousInvention Downtime Monitor
+Start Time  : 2023/03/20 13:24:53
+Current Time: 2023/03/20 13:25:18
+Elapsed Time: 0:00:24
+Pinging:
+	Google DNS: 8.8.8.8 with timeout of: 5000
+	CLoudflair: 1.0.0.1 with timeout of: 5000
+	Google DNS 2: 8.8.4.4 with timeout of: 5000
+	router: 192.168.50.1 with timeout of: 5000
+Current Response Time: 
+2023/03/20 13:25:18
+Pinging this ipAddress: 8.8.8.8
+reachable in 37 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 35 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 37 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+CautiousInvention Downtime Monitor
+Start Time  : 2023/03/20 13:24:53
+Current Time: 2023/03/20 13:25:23
+Elapsed Time: 0:00:29
+Pinging:
+	Google DNS: 8.8.8.8 with timeout of: 5000
+	CLoudflair: 1.0.0.1 with timeout of: 5000
+	Google DNS 2: 8.8.4.4 with timeout of: 5000
+	router: 192.168.50.1 with timeout of: 5000
+Current Response Time: 
+2023/03/20 13:25:23
+Pinging this ipAddress: 8.8.8.8
+reachable in 50 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 43 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 42 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 2 ms
+--------------------------------------------
+CautiousInvention Downtime Monitor
+Start Time  : 2023/03/20 13:24:53
+Current Time: 2023/03/20 13:25:28
+Elapsed Time: 0:00:34
+Pinging:
+	Google DNS: 8.8.8.8 with timeout of: 5000
+	CLoudflair: 1.0.0.1 with timeout of: 5000
+	Google DNS 2: 8.8.4.4 with timeout of: 5000
+	router: 192.168.50.1 with timeout of: 5000
+Current Response Time: 
+2023/03/20 13:25:28
+Pinging this ipAddress: 8.8.8.8
+reachable in 45 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 42 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 44 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+CautiousInvention Downtime Monitor
+Start Time  : 2023/03/20 13:24:53
+Current Time: 2023/03/20 13:25:33
+Elapsed Time: 0:00:39
+Pinging:
+	Google DNS: 8.8.8.8 with timeout of: 5000
+	CLoudflair: 1.0.0.1 with timeout of: 5000
+	Google DNS 2: 8.8.4.4 with timeout of: 5000
+	router: 192.168.50.1 with timeout of: 5000
+Current Response Time: 
+2023/03/20 13:25:33
+Pinging this ipAddress: 8.8.8.8
+reachable in 45 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 36 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 45 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+CautiousInvention Downtime Monitor
+Start Time  : 2023/03/20 13:24:53
+Current Time: 2023/03/20 13:25:38
+Elapsed Time: 0:00:44
+Pinging:
+	Google DNS: 8.8.8.8 with timeout of: 5000
+	CLoudflair: 1.0.0.1 with timeout of: 5000
+	Google DNS 2: 8.8.4.4 with timeout of: 5000
+	router: 192.168.50.1 with timeout of: 5000
+Current Response Time: 
+2023/03/20 13:25:38
+Pinging this ipAddress: 8.8.8.8
+reachable in 44 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 33 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 44 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+CautiousInvention Downtime Monitor
+Start Time  : 2023/03/20 13:24:53
+Current Time: 2023/03/20 13:25:43
+Elapsed Time: 0:00:49
+Pinging:
+	Google DNS: 8.8.8.8 with timeout of: 5000
+	CLoudflair: 1.0.0.1 with timeout of: 5000
+	Google DNS 2: 8.8.4.4 with timeout of: 5000
+	router: 192.168.50.1 with timeout of: 5000
+Current Response Time: 
+2023/03/20 13:25:43
+Pinging this ipAddress: 8.8.8.8
+reachable in 41 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 42 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 44 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 0 ms
+--------------------------------------------
+CautiousInvention Downtime Monitor
+Start Time  : 2023/03/20 13:24:53
+Current Time: 2023/03/20 13:25:48
+Elapsed Time: 0:00:54
+Pinging:
+	Google DNS: 8.8.8.8 with timeout of: 5000
+	CLoudflair: 1.0.0.1 with timeout of: 5000
+	Google DNS 2: 8.8.4.4 with timeout of: 5000
+	router: 192.168.50.1 with timeout of: 5000
+Current Response Time: 
+2023/03/20 13:25:48
+Pinging this ipAddress: 8.8.8.8
+reachable in 35 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 36 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 44 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+CautiousInvention Downtime Monitor
+Start Time  : 2023/03/20 13:24:53
+Current Time: 2023/03/20 13:25:53
+Elapsed Time: 0:00:59
+Pinging:
+	Google DNS: 8.8.8.8 with timeout of: 5000
+	CLoudflair: 1.0.0.1 with timeout of: 5000
+	Google DNS 2: 8.8.4.4 with timeout of: 5000
+	router: 192.168.50.1 with timeout of: 5000
+Current Response Time: 
+2023/03/20 13:25:53
+Pinging this ipAddress: 8.8.8.8
+reachable in 38 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 35 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 54 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 0 ms
+--------------------------------------------
+CautiousInvention Downtime Monitor
+Start Time  : 2023/03/20 13:24:53
+Current Time: 2023/03/20 13:25:58
+Elapsed Time: 0:01:04
+Pinging:
+	Google DNS: 8.8.8.8 with timeout of: 5000
+	CLoudflair: 1.0.0.1 with timeout of: 5000
+	Google DNS 2: 8.8.4.4 with timeout of: 5000
+	router: 192.168.50.1 with timeout of: 5000
+Current Response Time: 
+2023/03/20 13:25:58
+Pinging this ipAddress: 8.8.8.8
+reachable in 45 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 35 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 49 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+CautiousInvention Downtime Monitor
+Start Time  : 2023/03/20 13:24:53
+Current Time: 2023/03/20 13:26:03
+Elapsed Time: 0:01:09
+Pinging:
+	Google DNS: 8.8.8.8 with timeout of: 5000
+	CLoudflair: 1.0.0.1 with timeout of: 5000
+	Google DNS 2: 8.8.4.4 with timeout of: 5000
+	router: 192.168.50.1 with timeout of: 5000
+Current Response Time: 
+2023/03/20 13:26:03
+Pinging this ipAddress: 8.8.8.8
+reachable in 40 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 37 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 53 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+CautiousInvention Downtime Monitor
+Start Time  : 2023/03/20 13:24:53
+Current Time: 2023/03/20 13:26:08
+Elapsed Time: 0:01:14
+Pinging:
+	Google DNS: 8.8.8.8 with timeout of: 5000
+	CLoudflair: 1.0.0.1 with timeout of: 5000
+	Google DNS 2: 8.8.4.4 with timeout of: 5000
+	router: 192.168.50.1 with timeout of: 5000
+Current Response Time: 
+2023/03/20 13:26:08
+Pinging this ipAddress: 8.8.8.8
+reachable in 41 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 45 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 35 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
+CautiousInvention Downtime Monitor
+Start Time  : 2023/03/20 13:24:53
+Current Time: 2023/03/20 13:26:13
+Elapsed Time: 0:01:19
+Pinging:
+	Google DNS: 8.8.8.8 with timeout of: 5000
+	CLoudflair: 1.0.0.1 with timeout of: 5000
+	Google DNS 2: 8.8.4.4 with timeout of: 5000
+	router: 192.168.50.1 with timeout of: 5000
+Current Response Time: 
+2023/03/20 13:26:13
+Pinging this ipAddress: 8.8.8.8
+reachable in 37 ms
+Pinging this ipAddress: 1.0.0.1
+reachable in 36 ms
+Pinging this ipAddress: 8.8.4.4
+reachable in 44 ms
+Pinging this ipAddress: 192.168.50.1
+reachable in 1 ms
+--------------------------------------------
