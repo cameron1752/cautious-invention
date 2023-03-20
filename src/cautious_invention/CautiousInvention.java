@@ -66,6 +66,8 @@ public class CautiousInvention {
 				System.out.println("	" + serv3.toString());
 				System.out.println("	" + serv4.toString());
 				System.out.println("Current Response Time: ");
+				
+
 	
 				try {
 					long millis = System.currentTimeMillis();
